@@ -1,0 +1,13 @@
+Timestamp,Account Status,Amount,Country,Decision
+2025-07-03 08:54:00,yes,100000.0,Russia,Escalated - High Risk Country
+2025-07-03 09:01:04,no,23456.0,India,Rejected - Inactive Account
+2025-07-03 09:15:40,yes,2321932.0,Iran,Escalated - High Risk + High Value
+2025-07-03 09:16:04,yes,1523.0,North Korea,Escalated - High Risk Country
+2025-07-03 09:16:22,no,1002932.0,Syria,Rejected - Inactive Account
+2025-07-03 09:16:36,yes,12942.0,Usa,Approved
+2025-07-03 09:16:53,no,323981.0,Japan,Rejected - Inactive Account
+2025-07-03 09:17:17,yes,1009238.0,China,Hold - High Value
+2025-07-03 09:18:52,yes,82372932.0,Belgium,Hold - High Value
+2025-07-03 09:19:16,yes,283742.0,Pakistan,Hold - High Value
+2025-07-03 09:19:36,no,1283234.0,Bhutan,Rejected - Inactive Account
+2025-07-03 09:19:53,no,38472374.0,Thailand,Rejected - Inactive Account
